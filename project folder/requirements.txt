@@ -1,0 +1,9 @@
+Babel==2.12.1
+Delorean==1.0.0
+humanize==4.6.0
+python-dateutil==2.8.2
+pytz==2023.3
+pytz-deprecation-shim==0.1.0.post0
+six==1.16.0
+tzdata==2023.3
+tzlocal==4.3
